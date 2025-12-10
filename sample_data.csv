@@ -1,50 +1,24 @@
-Name,Email,Consent
-Thabo Mbeki,thabo.m@gmail.com,Yes
-Sarah Van Der Merwe,sarah.vdm@outlook.com,No
-Lerato Nkosi,l.nkosi@techsolutions.co.za,TRUE
-Johan Botha,johan.botha88@yahoo.com,
-Naledi Zondi,naledi.z@cut.ac.za,Yes
-Precious Dlamini,precious.d@gmail.com,FALSE
-Mike Smith,mike.smith@construction-sa.co.za,Yes
-Yusuf Patel,y.patel@retailgroup.co.za,No
-Sipho Khumalo,sipho.k@icloud.com,1
-Bianca Naidoo,bianca.n@lawfirm.co.za,Yes
-David Fourie,dave.fourie@webmail.co.za,No
-Zanele Dube,zanele.dube@gmail.com,
-Kyle Peterson,kyle.p@marketing-agency.com,Yes
-Fatima Cassim,fatima.c@gmail.com,TRUE
-Ruan Venter,ruan.venter@agri-sa.co.za,FALSE
-Tshepo Molefe,tshepo.m@gov.za,Yes
-Anelisa Gqola,anelisa.g@gmail.com,0
-Chris Marais,chris.marais@outlook.com,No
-Kelebogile Sello,kelly.s@gmail.com,Yes
-Jason Lee,jason.lee@consulting.co.za,
-Mpho Tau,m.tau@citycouncil.org.za,TRUE
-Willem Coetzee,willem.c@farming-tech.co.za,1
+Name,Email,Consent,Source
+Thabo Mbeki,thabo.m@gmail.com,Yes,Website Signup
+Sarah Van Der Merwe,sarah.vdm@outlook.com,No,Previous Client
+Lerato Nkosi,l.nkosi@techsolutions.co.za,TRUE,LinkedIn Inquiry
+Johan Botha,johan.botha88@yahoo.com,,Purchased Database
+Naledi Zondi,naledi.z@cut.ac.za,Yes,University Event
+Precious Dlamini,precious.d@gmail.com,FALSE,Cold Call
+Mike Smith,mike.smith@construction-sa.co.za,Yes,Contractor Form
+Yusuf Patel,y.patel@retailgroup.co.za,No,Email Inquiry
+Sipho Khumalo,sipho.k@icloud.com,1,App Registration
+Bianca Naidoo,bianca.n@lawfirm.co.za,Yes,Webinar Q3
+David Fourie,dave.fourie@webmail.co.za,No,Unsubscribe List
+Zanele Dube,zanele.dube@gmail.com,,Unknown
+Kyle Peterson,kyle.p@marketing-agency.com,Yes,Newsletter Pop-up
+Fatima Cassim,fatima.c@gmail.com,TRUE,Black Friday Promo
+Ruan Venter,ruan.venter@agri-sa.co.za,FALSE,Cold List 2024
+Tshepo Molefe,tshepo.m@gov.za,Yes,Tender Portal
+Anelisa Gqola,anelisa.g@gmail.com,0,Old CRM
+Chris Marais,chris.marais@outlook.com,No,Opted Out 2023
+Kelebogile Sello,kelly.s@gmail.com,Yes,Facebook Lead Gen
+Jason Lee,jason.lee@consulting.co.za,,Purchased List B
+Mpho Tau,m.tau@citycouncil.org.za,TRUE,Public Sector Forum
+Willem Coetzee,willem.c@farming-tech.co.za,1,Trade Show Booth
 Sasha-Lee Davids,sasha.davids@capetown.gov.za,Yes
-Xolani Mthethwa,x.mthethwa@mining-group.com,
-Nicolette Swart,nicolette.s@realestate-sa.co.za,Yes
-Bongani Ndlovu,bongani.n@logistics.co.za,No
-Frikkie Oosthuizen,frikkie.o@lantic.net,FALSE
-Aaliyah Samsodien,aaliyah.s@fashionhub.co.za,Yes
-Grant Williams,grant.w@investments.co.za,TRUE
-Palesa Mokgoro,palesa.m@uni-jhb.ac.za,1
-Dries Van Niekerk,dries.vn@auto-dealers.co.za,No
-Keshav Pillay,k.pillay@urban-architects.co.za,Yes
-Nomsa Hlongwane,nomsa.h@hospital-net.co.za,Yes
-Riaan Du Plessis,riaan.dp@security-force.co.za,0
-Siya Kolisi (Demo),siya.k@springboks-fan.co.za,Yes
-Candice Abrahams,candice.a@event-planners.co.za,
-Lungile Mazibuko,lungi.m@sabc-demo.co.za,TRUE
-Etienne Roux,etienne.r@wineries.co.za,FALSE
-Vusi Mahlangu,vusi.m@transport-dept.gov.za,Yes
-Gareth Cliff (Test),gareth.c@radio-test.co.za,No
-Thandiwe Mosa,thandi.m@retail-chain.co.za,1
-Jacques Grobler,jacques.g@engineering-solutions.co.za,Yes
-Prudence Chetty,prudence.c@banking-group.co.za,TRUE
-Lebo Mathosa (Legacy),lebo.m@music-store.co.za,No
-Stefan De Villiers,stefan.dv@audit-partners.co.za,Yes
-Ayanda Jali,ayanda.j@football-club.co.za,
-Heinrich Basson,heinrich.b@logistics-express.co.za,Yes
-Farah Mohamed,farah.m@medical-aids.co.za,0
-Kobus Visser,kobus.v@farmers-
